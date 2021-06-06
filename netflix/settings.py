@@ -7,7 +7,7 @@ PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 
 
 
-t!
+
 SECRET_KEY = '3=&=@tkmv3)24v%0*bsmiv#t)sz=n_ga1$$yls7#e3j%c-5lq#'
 
 
